@@ -64,8 +64,6 @@ class Webservices_controlador extends CI_Controller {
          $this->verificar_estado($estado,'padron');
       }
    }
-
-
 }
 
 /* End of file home.php */
